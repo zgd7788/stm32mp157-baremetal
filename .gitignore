@@ -1,0 +1,17 @@
+# Build outputs
+**/build/*.o
+**/build/*.d
+**/build/*.elf
+**/build/*.bin
+**/build/*.map
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+#手册不上传
+STM32MP157手册/
+编码规范/
+原理图/
